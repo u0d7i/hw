@@ -8,3 +8,4 @@
 - [downloads from vendor](http://www.orangepi.org/downloadresources/)
 - board is picky on SD cards. see [here](http://www.orangepi.org/orangepibbsen/forum.php?mod=viewthread&tid=2745&page=1#pid19174) and [here](http://www.orangepi.org/orangepibbsen/forum.php?mod=redirect&goto=findpost&ptid=2691&pid=19252), if nothing helps, buy [here](https://www.aliexpress.com/store/product/For-Orange-PI-8GB-Class10-SD-Card-Lubuntu-OS-is-inside/1553371_32321398606.html)
 - on booting Linux from NAND see [here](https://www.cnx-software.com/2017/09/04/orange-pi-2g-iot-board-can-now-boot-linux-from-nand-flash/) ([via](http://surfero.blogspot.lt/)).
+- on hacking the board [here](https://www.aib42.net/article/hacking-orangepi-2g/) and [here](https://4pda.ru/forum/index.php?showtopic=813602)
